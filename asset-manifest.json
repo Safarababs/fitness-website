@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/fitness-website/static/js/main.da465fc1.js",
+    "static/media/trainer.jpg": "/fitness-website/static/media/trainer.194c9d1fe20164be76be.jpg",
+    "static/media/img3.jpg": "/fitness-website/static/media/img3.66b0eeeed70f46c19244.jpg",
+    "static/media/img6.jpg": "/fitness-website/static/media/img6.ab9cc3308dd35c29558b.jpg",
+    "static/media/img2.jpg": "/fitness-website/static/media/img2.c356e360726d11ecfc7f.jpg",
+    "static/media/img1.jpg": "/fitness-website/static/media/img1.93dbf1b2dbfd5372d415.jpg",
+    "static/media/eco.jpg": "/fitness-website/static/media/eco.ad490fc8acec16e5d41a.jpg",
+    "static/media/img5.jpg": "/fitness-website/static/media/img5.b9aa30e0451fa65fa8ab.jpg",
+    "static/media/img4.jpg": "/fitness-website/static/media/img4.f980369b2d9fcbb0166c.jpg",
+    "static/media/heavy.jpg": "/fitness-website/static/media/heavy.50a8b557ee9b32961b33.jpg",
+    "static/media/man.png": "/fitness-website/static/media/man.6afcbe9537e8dda8621f.png",
+    "static/media/pic1.png": "/fitness-website/static/media/pic1.bea5af664fa28c226a37.png",
+    "index.html": "/fitness-website/index.html",
+    "main.da465fc1.js.map": "/fitness-website/static/js/main.da465fc1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.da465fc1.js"
+  ]
+}
